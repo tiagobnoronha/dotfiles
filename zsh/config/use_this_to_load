@@ -27,4 +27,4 @@ done
 
 # Exports
 [[ -f ~/.env ]] && source ~/.env
-
+eval "$(zoxide init zsh)"
